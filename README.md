@@ -11,13 +11,14 @@
   
 ## Requirements
 To run the code in this project, you need the following libraries:
--pandas
--numpy
--os
--random
--tensorflow
--matplotlib
--cv2
+
+- pandas
+- numpy
+- os
+- random
+- tensorflow
+- matplotlib
+- cv2
 
 You can install the required libraries using pip:
 
