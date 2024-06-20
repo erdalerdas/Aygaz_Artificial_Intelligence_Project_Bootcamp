@@ -1,4 +1,4 @@
-# [Accelerating Urban Analysis with CNN and Satellite Imagery]
+# Accelerating Urban Analysis with CNN and Satellite Imagery
 
 ## About the Project
   This project aims to develop a Convolutional Neural Network (CNN) model trained with satellite imagery to optimize the site analysis process of urban planners and landscape architects.
